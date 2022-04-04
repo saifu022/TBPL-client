@@ -1,0 +1,13 @@
+.profile-image-preview {
+  max-width: 200px;
+}
+
+.profile-edit-form {
+  width: 75%;
+}
+.profile-edit-form input {
+  width: 60%;
+}
+.submit-btn {
+  max-width: 150px;
+}
